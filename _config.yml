@@ -5,4 +5,4 @@ remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-url: https://biojuampa.github.io/Algoritmos_Geneticos/
+#url: https://biojuampa.github.io/Algoritmos_Geneticos/
